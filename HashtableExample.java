@@ -31,3 +31,4 @@ public class HashtableExample {
     }
     
 }
+//해시함수를 통해 고유한 인덱스로 매칭 
